@@ -28,8 +28,8 @@ https://www.bilibili.com/video/<strong>BV1gr4y1X7JR</strong>/?spm_id_from=333.99
 <strong>如果您不是，可以使用集成开发环境打开上述两个文件（Jupyter Notebook不支持）</strong><br />
 1、您可以按需修改存放位置<br />
 ![image](https://github.com/LePanda026/BiliBili-Video-Scratcher/assets/106538913/60404ea9-7bad-46a4-9426-0024bf95be8d) <br />
-2、运行即可
-
+2、运行即可<br />
+<strong>如果您有任何问题，请在issue中提交，或者微信联系我</strong>
 
 # Bilibili Audio Crawler
 ## Introduction
@@ -66,4 +66,5 @@ Enter your BV number and the desired audio name.
 
 You can modify the storage location as needed.<br />
 image
-Run the program.
+Run the program.<br />
+<strong>If you have any questions, please submit them in the issues section or contact me via WeChat.</strong>
