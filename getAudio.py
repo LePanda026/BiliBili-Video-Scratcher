@@ -1,6 +1,7 @@
 from util import *
 
-AUDIO_SAVE_DIC = r''
+AUDIO_SAVE_DIC = GetDesktopPath()
+print(AUDIO_SAVE_DIC)
 url = fr'https://www.bilibili.com/video/{input("Please Tell Me The BVID>>")}\
         /?spm_id_from=333.337.search-card.all.click&vd_source=cf6cf9610f172f80dfab4b63068094c6'
 
