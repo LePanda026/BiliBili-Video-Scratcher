@@ -3,6 +3,9 @@ import os
 import json
 import requests
 
+def GetDesktopPath():
+    return os.path.join(os.path.expanduser("~"), 'Desktop')
+
 
 def SaveFile(data, file_name, dir_path):
     tip = file_name.split('.')[0]
